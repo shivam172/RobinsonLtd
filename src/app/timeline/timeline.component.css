@@ -1,0 +1,46 @@
+.leftContainer{
+    /* border-right: 2px; */
+    border-color: #828eff;
+    border-style: none solid none none;
+    padding-left: 27vw;
+    padding-right: 3vw;
+}
+.rightContainer{
+    /* border-left: 2px; */
+    border-color: #828eff;
+    border-style: none none none solid;
+    padding-right: 27vw;
+    padding-left: 3vw;
+}
+.step{
+    height: 40vh;
+}
+
+
+.arrow-right {
+    width: 0; 
+    height: 0; 
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-left: 20px solid #828eff;
+    position: absolute;
+    left: 48vw;
+  }
+  .arrow-left {
+    width: 0; 
+    height: 0; 
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-right:20px solid #828eff;
+    position: absolute;
+    right: 48vw; 
+  }
+h3{
+    text-align: justify;
+    background: darkgrey;
+    padding: 19px;
+    border-radius: 25px;
+}
+img{
+    border-radius: 25px;
+}

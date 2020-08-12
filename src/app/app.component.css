@@ -1,0 +1,52 @@
+.vidback{
+    height: auto;
+    width: 100%;
+    z-index: -1;
+    object-fit: fill;
+}
+.hightext{
+    z-index: 0;
+    position: absolute;
+    top: 44vh;
+    left: 21vw;
+}
+td{
+    padding: 0 46px;
+    height: 80px;
+    background-color: rgba(255,255,255,.8);
+    vertical-align: middle;
+}
+tr{
+    
+}
+h1{
+    font-size: 48px;
+    font-weight: 500;
+}
+.dashIcon{
+    height:3vh;
+    cursor:pointer;
+    margin-top:4%;
+    margin-left: 8%;
+}
+.arrow-down {
+    width: 0; 
+    height: 0; 
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #828eff;
+  }
+.pointer{
+    margin: auto;
+    width: 2.5%;
+}
+
+.tt{
+    padding-top: 3vh;
+    padding-left: 6vw;
+    padding-right: 2vw;
+}
+.yt{
+    padding-top: 4vh;
+    padding-left: 7vw;
+}
